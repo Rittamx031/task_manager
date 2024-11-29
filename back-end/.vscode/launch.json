@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TaskManagerBackEndApplication<task_manager_back_end>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "rittam.taskmanager.task_manager_back_end.TaskManagerBackEndApplication",
+      "projectName": "task_manager_back_end",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
